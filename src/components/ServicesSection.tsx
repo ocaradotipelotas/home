@@ -123,6 +123,7 @@ const servicesb2b = [
 const ServiceButton = styled.button`
   background: none;
   border: none;
+  border-radius: 0.5rem;
 
     &:hover {
     transform: translateY(-5px);

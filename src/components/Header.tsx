@@ -118,7 +118,7 @@ const Header: React.FC = () => {
     <HeaderContainer>
       <Nav>
         <Logo>
-          <LogoAnchor href='/'>
+          <LogoAnchor href='/home'>
             <LogoIcon width="40" height="40" color="currentColor" />
           </LogoAnchor>
           <span>
